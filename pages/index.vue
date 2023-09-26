@@ -1,9 +1,10 @@
 <template>
     <div>
-        <h2>Home</h2>
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora soluta quis animi sapiente cupiditate ratione odio aspernatur nostrum? Debitis, odit.
-        </p>
+        <h1 class="text-3xl font-bold mb-4">Home</h1>
+<p class="text-base">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora soluta quis animi sapiente cupiditate ratione odio aspernatur nostrum? Debitis, odit.
+</p>
+
     </div>
 </template>
 
@@ -13,6 +14,6 @@
     }
 </script>
 
-<style lang="scss" scoped>
+<style>
 
-</style>
+</style> 

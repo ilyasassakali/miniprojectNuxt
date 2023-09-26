@@ -1,5 +1,12 @@
 # Nuxt 3 Minimal Starter
 
+# documentation
+https://nuxt.com/docs/getting-started/installation
+https://nuxt.com/docs/getting-started/routing
+https://nuxt.com/modules/tailwindcss
+https://tailwindcss.com/docs/installation
+
+
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
