@@ -7,10 +7,14 @@
         <h2 class="text-2xl font-bold mb-2">{{ product.title }}</h2>
         <p class="text-xl font-semibold mb-2">Price: {{ product.price }} euro</p>
         <p class="text-gray-600">Product ID: {{ product.id }}</p>
+        <button class="btn flex bg-green-500 hover:bg-green-300 text-white py-2 px-3 rounded  cursor-pointer">
+          <i class="material-icons mr-2 ">add_shopping_cart</i>
+          <span>Add to cart</span>
+        </button>
         
       </div>
     </div>
-  </template>
+  </template> 
   
   <script setup>
     const { id } = useRoute().params;
